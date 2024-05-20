@@ -7,13 +7,14 @@ import Summary from './components/Summary.js';
 import Chat from './components/Chat.js';
 import Question from './components/Question.js';
 
+
 <<<<<<< HEAD
 
 function App() {
   return (
     <div className="login-container">
       <div className="login-box">
-        <div className="white-text">EDUCHAT에eva 오신것을</div>
+        <div className="white-text">EDUCHAT에 오신것을</div>
         <div className="white-text">환영합니다</div>
       </div>
       <div className="login-box1">
