@@ -31,7 +31,7 @@ async function springDataSet() {
     })
 }
 
-// PDF.js worker 경로 설정
+// PDF.js worker 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
 const Txt = () => {
